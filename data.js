@@ -45,3 +45,13 @@ const RESOURCES_DATA = [
     category: "Assistant"
   }
 ];
+{
+    type: 'video',
+    id: "L_Guz73e6fw",
+    authorName: "OpenAI",
+    authorImg: "https://ui-avatars.com/api/?name=OpenAI",
+    title: "Sora: First Impressions",
+    subtitle: "AI Video • 2024",
+    desc: "来看看 Sora 生成的首批视频效果，震撼整个影视行业。",
+    tags: ["Sora", "OpenAI", "视频生成"]
+},
